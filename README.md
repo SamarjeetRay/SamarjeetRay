@@ -1,24 +1,57 @@
-<h1 align="center">Hi 👋, I'm Samarjeet Ray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="400" alt="cat">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarjeetray&label=Profile%20views&color=0e75b6&style=flat" alt="samarjeetray" /> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **video editing**
-
-- ⚡ Fun fact **I am introvert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samarjeetray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarjeetray" height="30" width="40" /></a>
-<a href="https://fb.com/samrajput747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samrajput747" height="30" width="40" /></a>
-<a href="https://instagram.com/ft.samarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.samarx" height="30" width="40" /></a>
+<!-- Animated Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=180&section=header&text=Samarjeet%20Ray&fontSize=48&fontAlign=50&fontColor=0A0A0F"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Typing Banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Frontend+Developer;UI%2FUX+Enthusiast;Code.+Design.+Create." alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjeetray&show_icons=true&locale=en&layout=compact" alt="samarjeetray" /></p>
+---
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeetray&" alt="samarjeetray" /></p>
+### 🚀 About Me
+<p align="center">
+  Building <b>beautiful, fast, responsive</b> web interfaces.<br/>
+  Obsessed with <b>micro-interactions</b> and <b>clean visual hierarchies</b>.<br/>
+  Code × Design → delightful user journeys.
+</p>
+
+---
+
+### 🎨 Tech Playground
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,python,cpp,mysql" />
+</p>
+
+---
+
+### 📊 Snapshot
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=samarjeetray&show_icons=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0A0F" height="150"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeetray&hide_border=true&background=0A0A0F&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=FFFFFF&stroke=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF" height="150"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetray&layout=compact&hide_border=true&title_color=39FF14&text_color=FFFFFF&bg_color=0A0A0F" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect
+<p align="center">
+  <a href="https://linkedin.com/in/samarjeetray"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/SamarjeetRay"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://instagram.com/ft.samarx"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+</p>
