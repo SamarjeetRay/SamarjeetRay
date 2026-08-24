@@ -1,57 +1,210 @@
-<!-- Animated Gradient Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=180&section=header&text=Samarjeet%20Ray&fontSize=48&fontAlign=50&fontColor=0A0A0F"/>
-</p>
+<div align="center">
 
-<!-- Typing Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Frontend+Developer;UI%2FUX+Enthusiast;Code.+Design.+Create." alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00F5FF,100:7C3AED&height=190&section=header&text=SAMARJEET%20RAY&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&height=45&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+React;Building+systems%2C+not+just+projects."/>
 
-### 🚀 About Me
-<p align="center">
-  Building <b>beautiful, fast, responsive</b> web interfaces.<br/>
-  Obsessed with <b>micro-interactions</b> and <b>clean visual hierarchies</b>.<br/>
-  Code × Design → delightful user journeys.
-</p>
+<br>
 
----
+<a href="https://linkedin.com/in/samarjeetray">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+<a href="https://github.com/SamarjeetRay">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
+</a>
+<a href="https://leetcode.com/SamarjeetRay">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 
-### 🎨 Tech Playground
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,python,cpp,mysql" />
-</p>
+</div>
 
 ---
 
-### 📊 Snapshot
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samarjeetray&show_icons=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0A0F" height="150"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeetray&hide_border=true&background=0A0A0F&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=FFFFFF&stroke=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF" height="150"/>
-</p>
+## ⚡ `01 / PROFILE`
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarjeetray&layout=compact&hide_border=true&title_color=39FF14&text_color=FFFFFF&bg_color=0A0A0F" height="150"/>
-</p>
+<table>
+<tr>
+<td width="55%">
+
+```bash
+$ whoami
+
+Samarjeet Ray
+
+role     → Software Engineer
+focus    → Backend + Full-Stack
+stack    → Java / Spring Boot / React
+interest → Distributed Systems / DSA
+
+mindset  → Build → Learn → Improve
+```
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,kafka,docker&perline=3"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="https://linkedin.com/in/samarjeetray"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/SamarjeetRay"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://instagram.com/ft.samarx"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+## 🧬 `02 / STACK`
 
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,redux,js,vite,mysql,postgres,redis,kafka,docker,git,github&perline=7"/>
+
+<br>
+
+`Java` · `Spring Boot` · `React` · `JavaScript` · `SQL`
+`Microservices` · `Kafka` · `Redis` · `Docker` · `Git`
+
+</div>
+
+---
+
+## 🚀 `03 / SELECTED BUILDS`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 PayFlow
+
+**Distributed Payment Platform**
+
+`Java` `Spring Boot` `Kafka` `React` `Docker`
+
+```text
+CLIENT
+  ↓
+API GATEWAY
+  ↓
+USER ─ WALLET ─ TRANSACTION
+              ↓
+            KAFKA
+           ↙     ↘
+       REWARDS   NOTIFY
+```
+
+JWT · REST APIs · Microservices
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💸 SplitKaro
+
+**Smart Expense Settlement**
+
+`React 19` `Vite` `PWA`
+
+```text
+EXPENSES
+   ↓
+BALANCES
+   ↓
+OPTIMIZE
+   ↓
+MINIMUM PAYMENTS
+```
+
+⚡ Lighthouse `100` Desktop
+📱 Lighthouse `96` Mobile
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📰 QuickNews
+
+**Global News Aggregator**
+
+`React` `Vite` `REST API` `PWA`
+
+🌍 Multi-country news
+🔐 Server-side API protection
+🌗 Dark / Light mode
+📱 Offline support
+
+**Lighthouse:** `96 Performance` · `100 Best Practices`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+```text
+PROBLEM
+   ↓
+BREAK DOWN
+   ↓
+DESIGN
+   ↓
+CODE
+   ↓
+TEST
+   ↓
+SHIP 🚀
+```
+
+`DSA` · `OOP` · `DBMS`
+`OS` · `System Design`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 `04 / GITHUB PULSE`
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/SamarjeetRay?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=39FF14"/>
+
+<img src="https://img.shields.io/github/stars/SamarjeetRay?style=for-the-badge&label=STARS&labelColor=0D1117&color=00F5FF"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 `05 / CURRENTLY`
+
+<div align="center">
+
+`SPRING BOOT` → `MICROSERVICES` → `KAFKA` → `SYSTEM DESIGN` → `DSA`
+
+**Building better systems, one commit at a time.** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### `CODE • DESIGN • SCALE`
+
+<a href="mailto:samarjeetkumarray01@gmail.com">📧 Email</a>
+  ·   <a href="https://linkedin.com/in/samarjeetray">💼 LinkedIn</a>
+  ·   <a href="https://github.com/SamarjeetRay">⚡ GitHub</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F5FF,100:39FF14&height=100&section=footer"/>
+
+</div>
